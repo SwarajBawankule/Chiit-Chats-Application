@@ -1,4 +1,6 @@
-React Chat Application
+<h1>React Chat Application</h1>
+
+
 Overview
 This project is a simple chat application built with React. It allows users to create chat rooms and connect with others by sharing a unique code.
 
