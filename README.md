@@ -12,7 +12,7 @@ Follow these steps to set up and use the chat application:
 <h1>1. Clone the Repository</h1>
 First, clone the repository to your local machine:
 
-<h1>bash</h1>
+bash
 Copy code
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
@@ -24,7 +24,9 @@ Copy code
 npm install
 # or
 yarn install
-3. Run the Application
+
+
+#3. Run the Application
 Start the development server:
 
 bash
