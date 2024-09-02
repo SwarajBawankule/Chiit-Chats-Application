@@ -3,6 +3,7 @@
 
 <h1>Overview</h1>
 This project is a simple chat application built with React. It allows users to create chat rooms and connect with others by sharing a unique code.
+![Description of Image](image1.png)
 
 
 
